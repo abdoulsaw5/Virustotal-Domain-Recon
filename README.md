@@ -3,7 +3,7 @@ This tool is for authorized security testing and educational use only.
 Do not use it against systems you do not own or have permission to test.
 The author is not responsible for any misuse or legal consequences.
 
-VirusTotal is a tool that many use for analyzing files, URLs, domains, and IP addresses to determine whether they are malicious, while it is used for safety. Virustotal can be used for Recon to find sub domains. I have developed a tool that uses the Virustotal API to fetch subdomains. For this to work you must alreadyd have a Virustotal account and an API key.
+VirusTotal is a tool that many use for analyzing files, URLs, domains, and IP addresses to determine whether they are malicious, while it is used for safety. Virustotal can be used for Recon to find sub domains. I have developed a tool that uses the Virustotal API to fetch subdomains. For this to work you must alreadyd have a Virustotal account and an API key. This tool works but conducting passive reconnaissance 
 
 
 I have uploaded both the .exe and the .py file for transparency. To use the .py file, please make sure the latest version of Python is installed. The executable file can be run directly without any additional setup.
