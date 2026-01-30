@@ -22,4 +22,6 @@ How to obtain your Virustotal API key
 
 5. Paste your API key first
 
-6. enter the site you want to do recon on
+6. enter the site you want to do recon on and hit enter. (In this example I decided to use Google)
+   <img width="1759" height="1183" alt="image" src="https://github.com/user-attachments/assets/303a7617-f18e-4b3f-96c2-3e6ee1b3b4ed" />
+
